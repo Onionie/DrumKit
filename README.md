@@ -10,3 +10,4 @@ A digital drum kit where a user can use mouse or keyboard buttons to play differ
 <img src = "https://github.com/Onionie/DrumKit/blob/main/images/1.PNG">
 
 # Deployment
+https://onionie.github.io/DrumKit/
